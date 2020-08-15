@@ -62,6 +62,7 @@ class DepartmentsController extends AppController
         if ($this->Departments->save($department)) {
             $this->set('department', $department);
             $this->viewBuilder()->setOption('serialize', 'department');
+
             return;
         }
         throw new \Exception("Record not created");
@@ -86,6 +87,7 @@ class DepartmentsController extends AppController
         if ($this->Departments->save($department)) {
             $this->set('department', $department);
             $this->viewBuilder()->setOption('serialize', 'department');
+
             return;
         }
         throw new \Exception("Record not saved");

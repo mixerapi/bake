@@ -25,6 +25,7 @@
         if ($this->{{ currentModelName }}->save(${{ singularName }})) {
             $this->set('{{ singularName }}', ${{ singularName }});
             $this->viewBuilder()->setOption('serialize', {{ compact|join(', ')|raw }});
+
             return;
         }
         throw new \Exception("Record not saved");
