@@ -13,6 +13,8 @@ Bake RESTful CakePHP controllers in seconds with this API focused bake template.
 
 ## Installation 
 
+You can skip this step if you installed the main `mixerapi/mixerapi` plugin.
+
 ```bash
 composer require mixerapi/bake
 bin/cake plugin load MixerApi/Bake
