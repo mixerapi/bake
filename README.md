@@ -168,19 +168,6 @@ class DepartmentsController extends AppController
 </p>
 </details>
 
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
-
 ## Unit Tests
 
 ```bash
