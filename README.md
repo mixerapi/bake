@@ -1,7 +1,7 @@
 # MixerAPI Bake
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mixerapi/bake.svg?style=flat-square)](https://packagist.org/packages/mixerapi/bake)
-[![Build Status](https://travis-ci.org/mixerapi/bake.svg?branch=master)](https://travis-ci.org/mixerapi/bake)
+[![Build](https://github.com/mixerapi/bake/workflows/Build/badge.svg?branch=master)](https://github.com/mixerapi/bake)
 [![Coverage Status](https://coveralls.io/repos/github/mixerapi/bake/badge.svg?branch=master)](https://coveralls.io/github/mixerapi/bake?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 [![MixerApi](https://mixerapi.com/assets/img/mixer-api-red.svg)](http://mixerapi.com)
