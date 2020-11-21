@@ -1,7 +1,7 @@
 {
     "name": "mixerapi/bake",
     "description": "A bake template for RESTful CakePHP controllers",
-    "type": "project",
+    "type": "cakephp-plugin",
     "license": "MIT",
     "keywords": ["cakephp"],
     "require": {
