@@ -9,7 +9,7 @@ use Cake\Core\PluginApplicationInterface;
 use Cake\Event\EventInterface;
 use Cake\Event\EventManager;
 
-class Plugin extends BasePlugin
+class BakePlugin extends BasePlugin
 {
     /**
      * @inheritDoc
